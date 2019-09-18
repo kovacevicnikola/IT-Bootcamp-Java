@@ -1,0 +1,4 @@
+1.Zadatak
+-------------------------------------------------
+98/100
+Za getBelancevine i ostalo,treba da delis sa 100 (ovako bi dobio uvek vecu tezinu od ukupne *(za sve sto ima preko 1%)

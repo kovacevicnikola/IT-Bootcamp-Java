@@ -1,0 +1,27 @@
+1.Zadatak
+-------------------------------------------------
+Poeni: 100/100
+Primedbe/Komentari: Nema
+
+2.Zadatak
+-------------------------------------------------
+Poeni: 100/100
+Primedbe/Komentari: Obrnuo si kolonu i red
+
+3.Zadatak 
+-------------------------------------------------
+Poeni: 100/100
+Primedbe/Komentari: Nema
+4.Zadatak
+-------------------------------------------------
+Poeni: 80/100
+Primedbe/Komentari: Ne moraju svi redovi imati isti broj int-ova (moze a[1].length biti 3, a a[2].length 5)
+
+5.Zadatak *nije uradjen
+-------------------------------------------------
+Poeni: 0/100
+Primedbe/Komentari: Nema
+
+
+ 
+

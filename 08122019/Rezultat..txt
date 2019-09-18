@@ -1,0 +1,5 @@
+1.Zadatak
+-------------------------------------------------
+Poeni: 100/100
+Primedbe/Komentari: Kao argument nextInt za Random treba da se prosledi gornjaGranica
+

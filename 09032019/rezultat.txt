@@ -1,0 +1,9 @@
+1.Zadatak
+-------------------------------------------------
+100/100
+
+2.Zadatak
+-------------------------------------------------
+85/100
+U 18. ne treba ponavljati ispise
+Ne radi ti upit za prosecan broj poena (14. zadatak)

@@ -1,0 +1,14 @@
+treciniz
+0/100 - program treba da ispise uniju 2 niza
+
+srednjavrednost
+0/100 - ne radi
+
+RandomUNizu
+100/100
+
+BrojUNizu
+100/100
+
+Duplikati
+100/100

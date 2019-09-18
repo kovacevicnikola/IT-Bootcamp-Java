@@ -1,0 +1,4 @@
+1.Zadatak
+-------------------------------------------------
+100/100
+Za sabiranje i oduzimanje ti je lakse da napises: return levi.izracunaj() + desni.izracunaj(); umesto pravljenja novih promenljivih

@@ -1,0 +1,6 @@
+1.Zadatak
+-------------------------------------------------
+Poeni: 95/100
+Primedbe/Komentari: Losa formula za povrsinu
+	Super ideja za validator(), set metode za stranice treba da budu odvojene (super je i ovo,ali najcesce se ocekuje da jedna set metoda utice na jedno polje)
+

@@ -1,0 +1,9 @@
+1.Zadatak
+-------------------------------------------------
+40/100
+Ako nam je prazan niz Listova u knjizi,ne radi dodavanje,tj baca NullPointerException (iz ne treba da se prosledjuje,vec se kreira prazan niz od X elemenata pri kreiranju objekta)
+
+2.Zadatak
+-------------------------------------------------
+90/100
+Probaj automatsi da generises pozive super() u eclipse-u

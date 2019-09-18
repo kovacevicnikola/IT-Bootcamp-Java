@@ -1,0 +1,4 @@
+1.Zadatak
+-------------------------------------------------
+99/100
+Imao si neki visak u klasi Kostmograf,kod se ne prevodi sa tim (import)

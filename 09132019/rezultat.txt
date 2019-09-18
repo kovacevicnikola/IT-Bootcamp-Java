@@ -1,0 +1,5 @@
+1.Zadatak
+-------------------------------------------------
+80/100
+Za klasu kamion fali teret
+Koji se povecava kad se dodaje nesto,i smanjuje kad se skida

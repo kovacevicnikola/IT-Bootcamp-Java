@@ -1,0 +1,2 @@
+DELETE FROM Automobil WHERE IdM=(SELECT Model.id FROM Model, Automobil WHERE Automobil.IdM=Model.id AND Model.Model="X7")
+DELETE FROM Automobil WHERE IdM=(SELECT Model.id FROM Model, Automobil, Kupovina WHERE NOT Kupovina.IdA=Automobil.id AND Automobil.IdM=Model.id)
